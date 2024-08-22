@@ -12,8 +12,4 @@ My goal for this project was to gain some exposure to machine learning algorthim
 I used the dataset available on kaggle:
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
-It was very imbalanced, but no missing values!
-
-I also watched some of Greg Hogg's video as a guide to help me think through preprocessing the data
-https://youtu.be/M_Cu7r9gik4?si=lNFovMf0l92eAiCj
 
